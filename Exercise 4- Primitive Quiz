@@ -1,0 +1,5 @@
+ask=input('"What is the capital of France')
+if ask.strip().capitalize() == 'PARIS'or ask.strip().lower() == "paris":
+    print('correct the capital of the france is paris')
+else :
+    print('Wrong ! the correct answer is Paris')
