@@ -1,4 +1,4 @@
-#Fill in the blanks in the code below so that the function hello() prints "Hello" to the console.
+#Fill in the blanks in the code below so that the function hello() prints "Hello" to the console.   
 def hello():
     print(hello) # Fill in this blank to print "Hello" to the console
 
