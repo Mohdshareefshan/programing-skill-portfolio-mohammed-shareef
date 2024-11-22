@@ -1,0 +1,13 @@
+name=input('enter your first and last name' )
+age=int(input('enter your age'))
+hometown=input('enter your town')
+
+
+dict_nameee={
+    'name':name,
+    'age':age,
+    'hometown':hometown}
+#Print the values on separate lines using a single print() statement.
+print(dict_nameee['name'])
+print(dict_nameee['age'])
+print(dict_nameee['hometown'])
