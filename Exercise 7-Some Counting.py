@@ -20,5 +20,6 @@ for r in range (50,9,-2):
 
 #Write a loop that counts up from 100 to 200 in increments of 5. 
 print("Loop 1: Counting up from 100 to 200")
-for i in range(100, 201,5   ):  # range includes 0 and excludes 51
+for i in range(100, 201,5):  # range includes 0 and excludes 51
     print(i)
+
